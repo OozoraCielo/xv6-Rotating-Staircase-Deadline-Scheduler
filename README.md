@@ -1,7 +1,7 @@
 # xv6 Rotating Staircase Deadline Scheduler
 A University of the Philippines Diliman Projects that focuses on editing the codes of an OS specifically xv6
 
-Please see the documentation file for more information on the problem and how I solved it.
+I collaborated together with Jack Vincent Nicolas and Denver Earl Paul Bugaoisan to do this project. Please see the documentation file for more information on the problem and how we solved it.
 
 Kindly [email](cbragunton@up.edu.ph) me if you want to see the project specifications
 
